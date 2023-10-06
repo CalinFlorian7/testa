@@ -1,1 +1,6 @@
-console.log("salut")
+let sayHello=()=>
+{
+    console.log('hello')
+}
+
+sayHello
